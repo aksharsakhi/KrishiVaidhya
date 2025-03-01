@@ -1,0 +1,16 @@
+Strawberry Leaf Scorch
+Tomato Leaf Mold
+Tomato Mosaic Virus
+Corn Common Rust
+Potato Early Blight
+Corn Gray Leaf Spot
+Apple Blotch
+Apple Rust
+Potato Late Blight
+Potato Early Blight
+Corn Leaf Blight
+Corn Rust
+Grape Black Rot
+Grape Powdery Mildew
+Tomato Late Blight
+Tomato Mosaic Virus
